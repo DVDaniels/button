@@ -17,7 +17,7 @@ a {
 
 a:hover {
     color:#75d5ff;
-    text-decoration: underline;
+    /* text-decoration: underline; */
 }
 
 .linktree {
@@ -67,4 +67,9 @@ a:hover {
     justify-content: center;
     text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.footer a:hover {
+    color:#75d5ff;
+    text-decoration: underline;
 }
