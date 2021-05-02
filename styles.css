@@ -63,6 +63,10 @@ a:hover {
     color: rgb(255, 255, 255);
 }
 
+.usa {
+    color:red;
+}
+
 .footer {
     justify-content: center;
     text-align: center;
